@@ -13,16 +13,18 @@ export default function About() {
 
         <div>
 
-          <p>
-            I love building practical AI systems, but lately, I've been looking 'under the hood.'
-            Beyond my experience with FastAPI and mobile development.
-          </p>
+         /* About.jsx */
 
-          <p>
-            I am currently diving into Open Source projects to collaborate on large-scale engineering challenges.
-            I've also developed a strong fascination with chip design and hardware architecture, as I believe truly efficient AI requires a deep understanding of the metal it runs on.
-            Whether I'm debugging a dual-agent RAG pipeline or exploring the complexities of semiconductors, I approach every challenge with the same creativity I want to bring to my storytelling and singing.
-          </p>
+<p>
+  I love building practical AI systems, but lately, I've been looking 'under the hood' at the infrastructure powering them. 
+  While my current work involves building RAG pipelines like **LogSentinel**, I am deeply invested in understanding the hardware layer.
+</p>
+
+<p>
+  I actively follow India's semiconductor roadmap, from the rise of domestic **Fabs** to **OSAT facilities**, and I am currently exploring the **Open Compute Project (OCP)** to learn about open-source data center hardware. 
+  I believe the most efficient AI systems require a deep understanding of the silicon they run on. 
+  Whether I'm optimizing a backend or exploring semiconductor architecture, I bring the same creative energy I use for storytelling and singing.
+</p>
 
         </div>
 
